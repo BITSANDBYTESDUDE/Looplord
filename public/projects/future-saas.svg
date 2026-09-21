@@ -1,0 +1,7 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="640" rx="36" fill="#0B132B"/>
+  <circle cx="935" cy="165" r="130" fill="#06B6D4" fill-opacity="0.25"/>
+  <circle cx="1010" cy="240" r="180" fill="#3B82F6" fill-opacity="0.22"/>
+  <text x="70" y="160" fill="#F1F5F9" font-size="64" font-family="Arial" font-weight="700">Future SaaS Products</text>
+  <text x="70" y="240" fill="#93C5FD" font-size="30" font-family="Arial">Building Tomorrow's Product Ecosystem</text>
+</svg>
