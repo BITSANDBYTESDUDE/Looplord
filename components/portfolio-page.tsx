@@ -8,7 +8,7 @@ import { motion, useMotionValue, useSpring } from "framer-motion";
 import Lenis from "lenis";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { Github, Linkedin, Mail, ArrowUpRight } from "lucide-react";
+import { Globe, Briefcase, Mail, ArrowUpRight } from "lucide-react";
 
 import { CustomCursor } from "@/components/custom-cursor";
 import { Loader } from "@/components/loader";
@@ -386,14 +386,14 @@ export function PortfolioPage() {
               {sent && <p className="text-center text-sm text-cyan-300">Thanks! I&apos;ll reply soon.</p>}
             </form>
             <div className="mt-10 flex flex-wrap items-center justify-center gap-6 text-zinc-300">
-              <Link href="https://github.com" className="inline-flex items-center gap-2 hover:text-cyan-300">
-                <Github size={18} /> GitHub
+              <Link href="https://github.com/BITSANDBYTESDUDE" className="inline-flex items-center gap-2 hover:text-cyan-300">
+                <Globe size={18} /> GitHub
               </Link>
               <Link
-                href="https://linkedin.com"
+                href="https://www.linkedin.com"
                 className="inline-flex items-center gap-2 hover:text-cyan-300"
               >
-                <Linkedin size={18} /> LinkedIn
+                <Briefcase size={18} /> LinkedIn
               </Link>
               <Link href="mailto:hello@looplord.dev" className="inline-flex items-center gap-2 hover:text-cyan-300">
                 <Mail size={18} /> Email
