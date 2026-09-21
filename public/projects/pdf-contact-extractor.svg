@@ -1,0 +1,6 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="640" rx="36" fill="#0B1120"/>
+  <path d="M0 480C290 350 510 620 1200 330V640H0V480Z" fill="#1D4ED8" fill-opacity="0.35"/>
+  <text x="70" y="160" fill="#E5E7EB" font-size="64" font-family="Arial" font-weight="700">PDF Contact Extractor</text>
+  <text x="70" y="235" fill="#93C5FD" font-size="30" font-family="Arial">AI-Driven Parsing • Entity Detection</text>
+</svg>
